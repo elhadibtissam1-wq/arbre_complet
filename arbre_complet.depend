@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1793353360 source:c:\users\pc\desktop\bouziri\arbre_complet\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<random>
+	<algorithm>
+	<iomanip>
+
